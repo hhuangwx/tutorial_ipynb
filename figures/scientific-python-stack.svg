@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="scientific-python-stack.png" inkscape:export-xdpi="344.17001" inkscape:export-ydpi="344.17001" inkscape:version="0.48.3.1 r9886" sodipodi:docname="scientific-python-stack.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 130.8 145.8"
+	 style="enable-background:new 0 0 130.8 145.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F2F2F2;stroke:#000000;stroke-width:0.75;stroke-linecap:round;}
+	.st1{fill:#0066FF;}
+	.st2{font-family:'LiterationMonoPowerline-Bold';}
+	.st3{font-size:8px;}
+	.st4{enable-background:new    ;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" id="base" inkscape:current-layer="layer1" inkscape:cx="38.576964" inkscape:cy="52.333249" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-global="true" inkscape:window-height="1027" inkscape:window-maximized="0" inkscape:window-width="1791" inkscape:window-x="127" inkscape:window-y="24" inkscape:zoom="3.959798" pagecolor="#ffffff" showgrid="true" showguides="false">
+	
+		<inkscape:grid  empspacing="5" enabled="true" id="grid2985" originx="-299.625px" originy="-794.62499px" snapvisiblegridlinesonly="true" type="xygrid" visible="true">
+		</inkscape:grid>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(-299.625,-111.98717)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="flowRoot4680">
+	</g>
+	<g id="flowRoot4688">
+	</g>
+	<path id="rect3210" class="st0" d="M303.1,172.4h56.4c1.7,0,3.1,0.9,3.1,2v21c0,1.1-1.4,2-3.1,2h-56.4c-1.7,0-3.1-0.9-3.1-2v-21
+		C300,173.3,301.4,172.4,303.1,172.4z"/>
+	<path id="rect3210-4" class="st0" d="M370.5,172.4h56.4c1.7,0,3.1,0.9,3.1,2v21c0,1.1-1.4,2-3.1,2h-56.4c-1.7,0-3.1-0.9-3.1-2v-21
+		C367.4,173.3,368.8,172.4,370.5,172.4z"/>
+	<path id="rect3210-4-8" class="st0" d="M303.1,202.4h123.9c1.7,0,3.1,0.9,3.1,2v21c0,1.1-1.4,2-3.1,2H303.1c-1.7,0-3.1-0.9-3.1-2
+		v-21C300,203.3,301.4,202.4,303.1,202.4z"/>
+	<path id="rect3210-4-8-7" class="st0" d="M302,232.4h126c1.1,0,2,0.9,2,2v21c0,1.1-0.9,2-2,2H302c-1.1,0-2-0.9-2-2v-21
+		C300,233.3,300.9,232.4,302,232.4z"/>
+	<path id="rect3210-4-8-7-7" class="st0" d="M302,142.4h126c1.1,0,2,0.9,2,2v21c0,1.1-0.9,2-2,2H302c-1.1,0-2-0.9-2-2v-21
+		C300,143.3,300.9,142.4,302,142.4z"/>
+	<path id="rect3210-4-8-7-7-3" class="st0" d="M302,112.4h126c1.1,0,2,0.9,2,2v21c0,1.1-0.9,2-2,2H302c-1.1,0-2-0.9-2-2v-21
+		C300,113.3,300.9,112.4,302,112.4z"/>
+	<text transform="matrix(1 0 0 1 350.5918 246.577)" class="st1 st2 st3">Python</text>
+	<text transform="matrix(1 0 0 1 353.0288 216.9207)" class="st1 st2 st3">Numpy</text>
+	<text transform="matrix(1 0 0 1 322.2788 187.0769)" class="st1 st2 st3">Scipy</text>
+	<text transform="matrix(1 0 0 1 375.3027 187.0769)" class="st1 st2 st3">matplotlib</text>
+	<text transform="matrix(1 0 0 1 323.332 152.9584)" class="st4"><tspan x="0" y="0" class="st1 st2 st3">Other packages and </tspan><tspan x="24" y="9.6" class="st1 st2 st3">toolboxes</tspan></text>
+	<text transform="matrix(1 0 0 1 333.791 126.5985)" class="st1 st2 st3">User programs</text>
+	<g id="flowRoot3370" transform="translate(447.52906,234.62469)">
+	</g>
+</g>
+</svg>
