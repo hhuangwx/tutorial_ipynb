@@ -1,0 +1,82 @@
+58203  Fuyang Observations at 00Z 02 May 2017
+
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1012.0     33   19.6   13.6     68   9.76    135      4  291.8  319.7  293.5
+ 1000.0    135   18.4   11.4     64   8.53    120     10  291.6  316.0  293.1
+  925.0    801   15.2    7.2     59   6.93    110     23  294.8  315.2  296.1
+  850.0   1514   11.6    3.6     58   5.86     75     19  298.3  315.9  299.3
+  700.0   3106    0.8  -13.2     34   1.99     75     27  303.3  309.8  303.7
+  500.0   5770   -6.9  -48.9      2   0.09    315     45  324.6  324.9  324.6
+  400.0   7460  -20.9  -53.9      3   0.06    310     41  327.7  328.0  327.8
+  300.0   9520  -37.3  -63.3      5   0.03    325     64  332.7  332.8  332.7
+  250.0  10750  -47.3  -70.3      5   0.01    325     66  335.6  335.7  335.6
+  232.0  11242  -50.1  -73.1      5   0.01    310     60  338.6  338.6  338.6
+  200.0  12220  -47.3  -71.3      5   0.01    300     74  357.7  357.8  357.7
+  183.0  12794  -50.8  -74.2      5   0.01    300     82  361.2  361.2  361.2
+  150.0  14080  -58.7  -80.7      4   0.00    310     78  368.8  368.8  368.8
+  100.0  16560  -67.5                         290     51  397.1         397.1
+   84.1  17600  -70.7                         300     31  410.7         410.7
+   70.0  18700  -68.1                         275     16  438.4         438.4
+   50.0  20710  -67.3                         140      4  484.5         484.5
+   30.0  23910  -52.3                         135     10  601.5         601.5
+   20.0  26590  -44.7                         120     23  698.6         698.6
+Station information and sounding indices
+                             Station number: 58203
+                           Observation time: 170502/0000
+                           Station latitude: 32.86
+                          Station longitude: 115.73
+                          Station elevation: 33.0
+                            Showalter index: 11.91
+                               Lifted index: 11.78
+    LIFT computed using virtual temperature: 11.52
+                                SWEAT index: 126.73
+                                    K index: 8.10
+                         Cross totals index: 10.50
+                      Vertical totals index: 18.50
+                        Totals totals index: 29.00
+      Convective Available Potential Energy: 0.00
+             CAPE using virtual temperature: 0.00
+                      Convective Inhibition: 0.00
+             CINS using virtual temperature: 0.00
+                     Bulk Richardson Number: 0.00
+          Bulk Richardson Number using CAPV: 0.00
+  Temp [K] of the Lifted Condensation Level: 282.19
+Pres [hPa] of the Lifted Condensation Level: 883.78
+     Mean mixed layer potential temperature: 292.35
+              Mean mixed layer mixing ratio: 8.27
+              1000 hPa to 500 hPa thickness: 5635.00
+Precipitable water [mm] for entire sounding: 20.18
+
+Description of the 
+data columns
+or sounding indices.
+
+
+
+
+
+
+
+This server lost its data drive on
+March 11.  Most of the functionality has been restored.
+
+Interested in graduate studies in atmospheric science?
+Check out our program at the
+University of Wyoming
+
+
+Questions about the weather data provided by this site can be
+addressed to 
+Larry Oolman (ldoolman@uwyo.edu)
+
+
+<!--
+window.focus();
+// -->
+
+
+
+
